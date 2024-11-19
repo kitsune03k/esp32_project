@@ -3,7 +3,7 @@ esp32 개발 기록
 
 ## 목차
 ### 1. pj01_hello_world
-Hello, world 출력 
+예제로 이미 있는 Hello, world 작동
 
 ### 2. pj02_wifi_webserver
 wifi로 연결되는 간단한 웹서버 구현
