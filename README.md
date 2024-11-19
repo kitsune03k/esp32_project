@@ -1,12 +1,11 @@
 # esp32_project
-esp32 개발 기록
-
-![env.png](env.png)
 ## 개발환경
-- CLion @ Windows 10
-- 각종 빌드 도구 @ Ubuntu 22 LTS (WSL)
+![env.png](env.png)
 
-WSL상에서 모든 개발이 진행되고, 코드 편집만 윈도우 상에서 실행되는 CLion으로 함을 목적으로 함
+WSL의 우분투 상에서 모든 작업(컴파일, 빌드, 플래시 등)이 진행\
+윈도우의 역할은 코드 편집을 위한 CLion 실행 말고는 없음
+
+esp32의 WSL 연결은 [여기](https://github.com/kitsune03k/WSL_USB)를 참고할 것
 
 ## 목차
 ### 1. pj01_hello_world
