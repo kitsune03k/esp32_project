@@ -1,4 +1,6 @@
 # esp32_project
+https://kitsune03k.tistory.com/category/esp32
+
 ## 개발환경
 ![env.png](env.png)
 
