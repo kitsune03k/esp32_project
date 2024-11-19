@@ -3,5 +3,5 @@
 
 # exclude project's files
 /pj*/build/
-/pj*/cmake-build-debug/
+/pj*/cmake*/
 /pj*/.idea/
