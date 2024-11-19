@@ -7,7 +7,7 @@ https://kitsune03k.tistory.com/category/esp32
 WSL의 우분투 상에서 모든 작업(컴파일, 빌드, 플래시 등)이 진행\
 윈도우의 역할은 코드 편집을 위한 CLion 실행 말고는 없음
 
-esp32의 WSL 연결은 [여기](https://github.com/kitsune03k/WSL_USB)를 참고할 것
+개발보드의 WSL usb연결은 [여기](https://github.com/kitsune03k/WSL_USB)를 참고할 것
 
 ## 목차
 ### 1. pj01_hello_world
