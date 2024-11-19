@@ -1,5 +1,5 @@
 # esp32_project
-esp32 플랫폼 공부
+esp32 플랫폼 개인적인 기록
 
 ## 목차
 ### 1. pj01_hello_world
