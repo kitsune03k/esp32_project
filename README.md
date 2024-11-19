@@ -1,5 +1,5 @@
 # esp32_project
-esp32 플랫폼 개인적인 기록
+esp32 개인적인 개발 기록
 
 ## 목차
 ### 1. pj01_hello_world
